@@ -13,9 +13,9 @@ Flutter ile geliştirilmiş basit bir quiz uygulaması. Bu uygulama, kullanıcı
 ## Ekran Görüntüleri
 
 <!-- Uygulamanın ekran görüntülerini buraya ekleyebilirsiniz. Gerçek dosya yolları veya URL'ler ile değiştirin -->
-![Başlangıç Ekranı](assets/image/Screenshot_1725791581.png)
-![Quiz Ekranı](assets/image/Screenshot_1725791368.png)
-![Sonuç Ekranı](assets/image/Screenshot_1725791373.png)
+![Başlangıç Ekranı](assets/image/screenshot_1725791581.png)
+![Quiz Ekranı](assets/image/screenshot_1725791368.png)
+![Sonuç Ekranı](assets/image/screenshot_1725791373.png)
 
 ## Başlangıç
 
