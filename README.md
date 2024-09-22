@@ -17,11 +17,15 @@ Bu Flutter uygulaması, kullanıcıların çeşitli konularda sorularla kendiler
 
 Aşağıda uygulamadan bazı ekran görüntülerini bulabilirsiniz:
 
-![Ana Ekran](screenshots/home_screen.png)
-*Ana ekran görüntüsü*
+![Başlangıç Ekranı](assets/images/Screenshot_1725791581.png)
+*Başlangıç Ekranı Görseli*
 
-![Quiz Ekranı](screenshots/quiz_screen.png)
-*Quiz ekranı görüntüsü*
+![Quiz Ekranı](assets/images/Screenshot_1725791368.png)
+*Quiz Ekranı Görseli*
+
+![Sonuç Ekranı](assets/images/Screenshot_1725791373.png)
+*Sonuç Ekranı Görseli*
+
 
 ## Kurulum
 
